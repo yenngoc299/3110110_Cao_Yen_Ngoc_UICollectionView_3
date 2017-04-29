@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  UICollectionViewFlowLayout
-//
-//  Created by Anh Tuong Nguyen on 4/29/17.
-//
-//
-
 import UIKit
 
 @UIApplicationMain
